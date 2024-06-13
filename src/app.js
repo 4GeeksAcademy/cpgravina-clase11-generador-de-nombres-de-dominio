@@ -26,7 +26,7 @@ window.onload = function() {
     "vision"
   ];
 
-  let domainExtensionList = [
+  const domainExtensionList = [
     ".com",
     ".es",
     ".fr",
